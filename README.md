@@ -7,7 +7,6 @@ using Machine Learning, Deep Learning, and Computer Vision.
 
 🎓 B.Sc. in Informatics and Computer Science – Artificial Intelligence  
 🏫 The British University in Egypt — 2025  
-📍 Cairo, Egypt
 
 ---
 
@@ -59,25 +58,6 @@ developing my skills through hands-on projects and training.
 </p>
 
 ---
-
-## 🚀 Featured Project
-
-### 🧠 AI-Based Brain Tumor Diagnosis Platform
-
-An end-to-end AI platform for brain tumor classification and
-segmentation using deep learning.
-
-**Highlights:**
-
-- 🔬 Brain tumor classification & segmentation
-- 🧠 CNN, EfficientNet & U-Net architectures
-- 🔎 Grad-CAM explainability
-- 🖼️ Medical image processing
-- 🖥️ Interactive AI application
-- 📋 Patient data management
-- 📄 Automated medical report generation
-
-> Graduation Project — The British University in Egypt
 
 ---
 
