@@ -1,57 +1,94 @@
 # Hi, I'm Donia Safwat 👋
 
-### AI Graduate | Machine Learning & Deep Learning | Computer Vision
+### AI Engineer | Machine Learning & Deep Learning | Computer Vision
 
-🎓 B.Sc. in Artificial Intelligence — British University in Egypt, 2025
+I'm an Artificial Intelligence graduate with hands-on experience
+building practical AI solutions using Machine Learning, Deep Learning,
+and Computer Vision.
 
-I'm an Artificial Intelligence graduate interested in building practical AI solutions and applying machine learning and deep learning to real-world problems.
+🎓 B.Sc. in Informatics and Computer Science – Artificial Intelligence  
+The British University in Egypt — 2025
 
-### 🚀 Areas of Interest
+---
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Analytics
-- Generative AI
+## 🚀 About Me
 
-### 🛠️ Technical Skills
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🧠 Focused on Deep Learning and Computer Vision
+- 🐍 Experienced with Python and AI frameworks
+- 🔬 Interested in Generative AI and Agentic AI
+- 💡 Enjoy building practical, real-world AI applications
+- 📚 Continuously developing my AI Engineering skills
 
-**Programming & Data**
-- Python
-- SQL
-- NumPy
-- Pandas
+---
 
-**Machine Learning & AI**
-- Scikit-learn
-- PyTorch
-- TensorFlow
-- OpenCV
+## 🛠️ Technical Skills
 
-**Tools & Technologies**
-- Git & GitHub
-- Streamlit
-- Jupyter Notebook
-- Google Colab
+### Programming
+Python • SQL • C++ • OOP
 
-### 📌 Featured Projects
+### AI & Machine Learning
+Machine Learning • Deep Learning • Computer Vision  
+NLP • Generative AI • AI Agents
 
-🔹 **Brain Tumor Classification & Segmentation**  
-Deep Learning project for medical image analysis using CNNs, ResNet, U-Net, and Grad-CAM.
+### Frameworks & Libraries
+PyTorch • TensorFlow • Scikit-learn  
+OpenCV • Pandas • NumPy
 
-🔹 **Intelligent Cleaning Robot**  
-Reinforcement Learning project focused on adaptive navigation, obstacle avoidance, and autonomous behavior.
+### Tools & Technologies
+Streamlit • Power BI • Excel • MySQL  
+MongoDB • n8n • Linux • Git & GitHub
 
-### 📚 Currently Learning
+---
+
+## 🧠 Featured Project
+
+### AI-Based Brain Tumor Diagnosis Platform
+
+An end-to-end AI platform for brain tumor classification and
+segmentation using deep learning.
+
+**Key Features:**
+- Brain tumor classification
+- Tumor segmentation
+- CNN, EfficientNet & U-Net architectures
+- Grad-CAM explainability
+- Image processing
+- Interactive AI application
+- Patient data management
+- Automated medical report generation
+
+---
+
+## 📚 Training
+
+**Machine Learning for Data Analysis — NTI**  
+Hands-on training in data preprocessing, model development,
+evaluation, and optimization using Python.
+
+**Artificial Intelligence Track — NTI / Huawei Egyptian Talent Academy**  
+Hands-on training in Artificial Intelligence, Machine Learning,
+and Deep Learning.
+
+**AI Career Essentials — ALX**
+
+---
+
+## 🎯 Currently Exploring
 
 - Advanced Machine Learning
 - Deep Learning
 - Generative AI
 - LLMs & Transformers
+- Agentic AI
 - AI Engineering
 
-### 🤝 Let's Connect
+---
 
-- LinkedIn: [Donia Safwat](https://www.linkedin.com/in/doniasafwat1/)
-- GitHub: [doniasafwat](https://github.com/doniasafwat)
+## 🤝 Let's Connect
+
+📧 Email: doniasafwat12@gmail.com
+
+🔗 LinkedIn: [Donia Safwat](https://www.linkedin.com/in/doniasafwat1/)
+
+💻 GitHub: [doniasafwat](https://github.com/doniasafwat)
